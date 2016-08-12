@@ -1,10 +1,9 @@
-FusionCMS 6.2.1 latest retail version.
-It doesn't need serial to install and use.
+FusionCMS 6.2.1 ultima revision.
+No necesita serial, solo instalar
 
-Containing all updates from 6.1.7 to 6.2.1
 
 ![alt tag](http://i.imgur.com/PH3B2xK.jpg "FusionCMS")
 
-More information and items at: ZoneWoW.com
+Mas informacion : http://mythwow.esy.es
 
-Desch
+KireB
